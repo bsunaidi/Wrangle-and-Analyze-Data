@@ -1,0 +1,2 @@
+# Wrangle-and-Analyze-Data
+This project aims to wrangle a Twitter account data, named WeRateDogs. This twitter account rates people's dogs with a humorous comment about the dog. However, the Twitter archive contains basic tweet information, such as the tweet ID, timestamp, and text, for all 5000+ of their tweets as they stood on August 1, 2017 that have not been filtered. Therefore, to boost the quality of the analyses and visualizations, it is essential to wrangle the data starting with gathering, assessing, and ending with cleaning the data.
